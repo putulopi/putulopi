@@ -10,9 +10,14 @@ with my friends!
 
 ### You Can Follow Me At :
 
-<a href="https://instagram.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a><a href="https://twitter.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
+<p> 
+<a href="https://instagram.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
+</p>
+<p>
+<a href="https://twitter.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
+</p>
 
-### Lets Play Some Chess!
+### Let's Play Some Chess!
 
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/pawn.png"></a>
 
