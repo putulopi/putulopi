@@ -12,6 +12,10 @@ and i love hanging out
 with my friends!
 </p>
 
+### Contact via Email :
+
+<b>putulopi@tuta.io</b>
+
 ### You Can Follow Me At :
 
 <p>
