@@ -19,7 +19,7 @@ with my friends!
 <a href="https://twitter.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
 </p>
 
-### Let's Play Some Chess!
+### Wanna Play Some Chess?
 
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/pawn.png"></a>
 
