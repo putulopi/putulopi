@@ -23,7 +23,7 @@ with my friends!
 <a href="https://instagram.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
 </p>
 
-### Wanna Play Some Chess?
+### Wanna Play Chess?
 
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/pawn.png"></a>
 
