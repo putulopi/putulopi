@@ -14,7 +14,7 @@ with my friends!
 
 ### Lets Play Some Chess!
 
-<a href="https://chess.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/pawn.png"></a>
+<a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/pawn.png"></a>
 
 ### Wanna Hangout?
 
