@@ -19,8 +19,8 @@ with my friends!
 ### You Can Follow Me At :
 
 <p>
-<a href="https://twitter.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
-<a href="https://instagram.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
+<a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
+<a href="https://instagram.com/putulopi"> <img alt="Instagram" height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
 </p>
 
 ### Wanna Play Chess?
