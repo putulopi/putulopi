@@ -4,9 +4,13 @@
 
 </p>
 
-### Hi there 👋
-My name is Putu, and i love hanging out
+<p align="center"><b>Hi there!</b></p>
+
+<p align="center">
+My name is Putu,
+<p>and i love hanging out
 with my friends!
+</p>
 
 ### You Can Follow Me At :
 
