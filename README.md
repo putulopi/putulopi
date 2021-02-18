@@ -7,7 +7,7 @@
 <p align="center"><b>Hi there!</b></p>
 
 <p align="center">
-My name is Putu,
+My name is <b>Putu</b>,
 and i love hanging out
 with my friends!
 </p>
@@ -16,8 +16,6 @@ with my friends!
 
 <p> 
 <a href="https://instagram.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
-</p>
-<p>
 <a href="https://twitter.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
 </p>
 
