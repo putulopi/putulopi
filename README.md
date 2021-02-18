@@ -8,7 +8,7 @@
 
 <p align="center">
 My name is Putu,
-<p>and i love hanging out
+and i love hanging out
 with my friends!
 </p>
 
