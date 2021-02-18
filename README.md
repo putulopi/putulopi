@@ -1,3 +1,9 @@
+<p align="center">
+
+<img height=200 width=200 src="https://github.com/putulopi/images/blob/main/logo.png">
+
+</p>
+
 ### Hi there 👋
 My name is Putu, and i love hanging out
 with my friends!
