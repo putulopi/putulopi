@@ -12,4 +12,4 @@ with my friends!
 
 ### Wanna Hangout?
 
-<a href="https://discord.com/putulopi"> <img height=32 width=32 src="https://github.com/putulopi/images/blob/main/discord.png></a>
+<img height=32 width=32 src="https://github.com/putulopi/images/blob/main/discord.png">
