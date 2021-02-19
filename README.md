@@ -1,6 +1,6 @@
 <p align="center">
 
-<img height=200 width=200 src="https://github.com/putulopi/images/blob/main/logo.png">
+<img height=200 width=200 src="https://github.com/putulopi/images/blob/main/logos.jpg">
 
 </p>
 
