@@ -22,6 +22,14 @@ and found out new things!
 
 - Have a lot of friends!
 
+##### Things That I Like :
+
+- Designing Stuff
+
+- Listen to Music
+
+- Watching Movies
+
 ##### Contact Me via Email :
 
 <b>putulopi@tuta.io</b>
@@ -30,5 +38,7 @@ and found out new things!
 
 <p>
 <a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
+</p>
+<p>
 <a href="https://instagram.com/putulopi"> <img alt="Instagram" height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
 </p>
