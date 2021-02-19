@@ -13,12 +13,11 @@ and found out new things!
 </p>
 
 
-|My Goal Is :             |
-|-------------------------|
-|Contribute to Opensource |
-|Have my own Apps         |
-|Have my own Website      |
-|Have a lot of Friends!   |
+##### My Goal Is :             
+- Contribute to Opensource
+- Have my own Apps         
+- Have my own Website      
+- Have a lot of Friends!   
 
 
 |Things That I Like To Do |
@@ -27,15 +26,8 @@ and found out new things!
 |Listen to Music          |
 |Watching Movies          |
 
-##### Contact Me via Email :
-
-<b>putulopi@tuta.io</b>
-
 ##### You Can Follow Me At :
 
 <p>
 <a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
-</p>
-<p>
-<a href="https://instagram.com/putulopi"> <img alt="Instagram" height=32 width=32 src="https://github.com/putulopi/images/blob/main/instagram.png"></a>
 </p>
