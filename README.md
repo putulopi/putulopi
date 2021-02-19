@@ -12,23 +12,20 @@ And i like to browse the internet
 and found out new things!
 </p>
 
-##### My Goal Is  :
 
-- Contribute to Open-Source Project
+|My Goal Is :             |
+|-------------------------|
+|Contribute to Opensource |
+|Have my own Apps         |
+|Have my own Website      |
+|Have a lot of Friends!   |
 
-- Have my own Apps
 
-- Have my own Website
-
-- Have a lot of friends!
-
-##### Things That I Like :
-
-- Designing Stuff
-
-- Listen to Music
-
-- Watching Movies
+|Things That I Like To Do |
+|-------------------------|
+|Designing Stuff          |
+|Listen to Music          |
+|Watching Movies          |
 
 ##### Contact Me via Email :
 
