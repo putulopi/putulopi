@@ -15,8 +15,11 @@ and found out new things!
 
 ##### My Goal Is :             
 - Contribute to Opensource
+
 - Have my own Apps         
+
 - Have my own Website      
+
 - Have a lot of Friends!   
 
 
