@@ -45,3 +45,6 @@ and found out new things!
 <a href="https://dribbble.com/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/dribbble.svg"> </a>
 <a href="https://www.canva.com/p/putulopi/"> <img height=32 width=32 src="https://simpleicons.org/icons/canva.svg"> </a>
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/lichess.svg"> </a>
+
+### Thanks For The Icons! :
+https://simpleicons.org/
