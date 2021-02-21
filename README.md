@@ -42,5 +42,6 @@ and found out new things!
 
 <a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/twitter.svg"></a>
 <a href="https://instagram.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/instagram.svg"></a>
+<a href="https://dribbble.com/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/dribbble.svg"> </a>
 <a href="https://www.canva.com/p/putulopi/"> <img height=32 width=32 src="https://simpleicons.org/icons/canva.svg"> </a>
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/lichess.svg"> </a>
