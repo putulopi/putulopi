@@ -25,21 +25,23 @@ and found out new things!
 <table border="1";style="margin-left:auto;margin-right:auto;">
 	<tr>
 		<td>
-		<b>Things That I Like To Do</b>
+		<b>😻 Things That I Like To Do</b>
 		</td>
 		<tr>
-		<td>Listen To Music</td>
+		<td>🎵 Listen To Music</td>
 		</tr>
 		<tr>
-		<td>Playing Games</td>
+		<td>🕹️ Playing Games</td>
 		</tr>
 		<tr>
-		<td>Designing Stuff</td>
+		<td>🎨 Designing Stuff</td>
 		</tr>
 	</tr>
 </table>
 
-##### You Can Follow Me At :
+### 🌏 Social Links :
 
 <a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/twitter.svg"></a>
 <a href="https://instagram.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/instagram.svg"></a>
+<a href="https://www.canva.com/p/putulopi/"> <img height=32 width=32 src="https://simpleicons.org/icons/canva.svg"> </a>
+<a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/lichess.svg"> </a>
