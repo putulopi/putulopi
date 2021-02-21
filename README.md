@@ -12,11 +12,10 @@ And i like to browse the internet
 and found out new things!
 </p>
 
-
 ### ♨️ My Goal Is To :             
 - Contribute to Opensource
 
-- Have my own Apps         
+- Have my own App
 
 - Have my own Website      
 
