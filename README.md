@@ -31,6 +31,5 @@ and found out new things!
 
 ##### You Can Follow Me At :
 
-<p>
-<a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://github.com/putulopi/images/blob/main/twitter.png"></a>
-</p>
+<a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/twitter.svg"></a>
+<a href="https://instagram.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/instagram.svg"></a>
