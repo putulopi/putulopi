@@ -22,12 +22,22 @@ and found out new things!
 
 - Have a lot of Friends!   
 
-
-|Things That I Like To Do |
-|-------------------------|
-|Designing Stuff          |
-|Listen to Music          |
-|Watching Movies          |
+<table border="1";style="margin-left:auto;margin-right:auto;">
+	<tr>
+		<td>
+		<b>Things That I Like To Do</b>
+		</td>
+		<tr>
+		<td>Listen To Music</td>
+		</tr>
+		<tr>
+		<td>Playing Games</td>
+		</tr>
+		<tr>
+		<td>Designing Stuff</td>
+		</tr>
+	</tr>
+</table>
 
 ##### You Can Follow Me At :
 
