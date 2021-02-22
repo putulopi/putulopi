@@ -38,6 +38,10 @@ and found out new things!
 	</tr>
 </table>
 
+### 📧 Contact Me   :
+
+putulopi@tutamail.com
+
 ### 🌏 Social Links :
 
 <a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/twitter.svg"></a>
