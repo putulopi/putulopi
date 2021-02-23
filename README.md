@@ -1,54 +1,36 @@
-<p align="center">
+<h1 align="center">Hi 👋, I'm Putulopi</h1>
+<h3 align="center">I like doing stuff.</h3>
 
-<img height=170 width=170 src="https://github.com/putulopi/images/blob/main/logo.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=putulopi&label=Profile%20views&color=0e75b6&style=flat" alt="putulopi" /> </p>
 
-</p>
+<p align="left"> <a href="https://twitter.com/putulopi" target="blank"><img src="https://img.shields.io/twitter/follow/putulopi?logo=twitter&style=for-the-badge" alt="putulopi" /></a> </p>
 
-<p align="center"><b>Hello there!</b></p>
+- 🔭 I’m currently working on Translating Open Source Projects [Scramble Exif](https://www.transifex.com/juanitobananas/scrambled-exif/dashboard/)
 
-<p align="center">
-My name is <b>Putu</b>,
-And i like to browse the internet
-and found out new things!
-</p>
+- 🌱 I’m currently learning **Designing**
 
-### ♨️ My Goal Is To :             
-- Contribute to Opensource
+- 📫 How to reach me **putulopi@tutamail.com**
 
-- Have my own App
+- ⚡ Fun fact **I like to act "behind the scene"**
 
-- Have my own Website      
-
-- Have a lot of Friends!   
-
-<table border="1";style="margin-left:auto;margin-right:auto;">
-	<tr>
-		<td>
-		<b>😻 Things That I Like To Do</b>
-		</td>
-		<tr>
-		<td>🎵 Listen To Music</td>
-		</tr>
-		<tr>
-		<td>🕹️ Playing Games</td>
-		</tr>
-		<tr>
-		<td>🎨 Designing Stuff</td>
-		</tr>
-	</tr>
-</table>
-
-### 📧 Contact Me   :
-
-putulopi@tutamail.com
-
-### 🌏 Social Links :
-
-<a href="https://twitter.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/twitter.svg"></a>
-<a href="https://instagram.com/putulopi"> <img alt="Twitter" height=32 width=32 src="https://simpleicons.org/icons/instagram.svg"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/putulopi" target="blank"><img heigth=32 width=32 src="https://simpleicons.org/icons/twitter.svg" alt="putulopi" height="30" width="40" /></a>
+<a href="https://instagram.com/putulopi" target="blank"><img heigth=32 width=32 src="https://simpleicons.org/icons/instagram.svg" alt="putulopi" height="30" width="40" /></a>
 <a href="https://dribbble.com/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/dribbble.svg"> </a>
 <a href="https://www.canva.com/p/putulopi/"> <img height=32 width=32 src="https://simpleicons.org/icons/canva.svg"> </a>
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/lichess.svg"> </a>
+</p>
 
-### Thanks For The Icons! :
-https://simpleicons.org/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=putulopi&show_icons=true&locale=en" alt="putulopi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putulopi&" alt="putulopi" /></p>
+
+### Thanks For The :
+
+<a href="https://simpleicons.org/">Icons</a>
+
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Template</a>
