@@ -29,8 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putulopi&" alt="putulopi" /></p>
 
-### Thanks For The :
-
-<a href="https://simpleicons.org/">Icons</a>
-
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Template</a>
+### Thanks For The <a href="https://simpleicons.org/">Icons</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Template</a>
