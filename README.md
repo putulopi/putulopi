@@ -22,7 +22,6 @@
 <a href="https://twitter.com/putulopi" target="blank"><img heigth=32 width=32 src="https://simpleicons.org/icons/twitter.svg" alt="putulopi" height="30" width="40" /></a>
 <a href="https://instagram.com/putulopi" target="blank"><img heigth=32 width=32 src="https://simpleicons.org/icons/instagram.svg" alt="putulopi" height="30" width="40" /></a>
 <a href="https://dribbble.com/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/dribbble.svg"> </a>
-<a href="https://www.canva.com/p/putulopi/"> <img height=32 width=32 src="https://simpleicons.org/icons/canva.svg"> </a>
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/lichess.svg"> </a>
 </p>
 
@@ -33,4 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=putulopi&" alt="putulopi" /></p>
 
-### Thanks For The <a href="https://simpleicons.org/">Icons</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Template</a> & <a href="https://shields.io/">Lable</a>
+### Thanks For The :
+<p>> <a href="https://shields.io/">Lable</a></p>
+<p>> <a href="https://simpleicons.org/">Icons</a></p>
+<p>> <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Readme Template</a></p>
