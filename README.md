@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Translating Open Source Projects [Scramble Exif](https://www.transifex.com/juanitobananas/scrambled-exif/dashboard/)
 
-- 🌱 I’m currently learning **Designing**
+- 🌱 I’m currently learning **How To Use Github** & **Design**
 
 - 📫 How to reach me **putulopi@tutamail.com**
 
