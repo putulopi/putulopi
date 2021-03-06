@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/putulopi" target="blank"><img heigth=32 width=32 src="https://simpleicons.org/icons/twitter.svg" alt="putulopi" height="30" width="40" /></a>
 <a href="https://instagram.com/putulopi" target="blank"><img heigth=32 width=32 src="https://simpleicons.org/icons/instagram.svg" alt="putulopi" height="30" width="40" /></a>
+<a href="https://crowdin.com/profile/putulopi"><img height=32 width=32 src="https://simpleicons.org/icons/crowdin.svg" atl="Crowdin" height="40" width="40" /></a>
 <a href="https://dribbble.com/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/dribbble.svg"> </a>
 <a href="https://www.chess.com/member/putulopi"> <img height=32 width=32 src="https://simpleicons.org/icons/lichess.svg"> </a>
 </p>
